@@ -1,6 +1,6 @@
 {
   "name": "express-spa-router",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Express middleware for single page app routing",
   "main": "index.js",
   "author": {
@@ -14,6 +14,6 @@
   "keywords": ["express", "router", "spa"],
   "license": "MIT",
   "peerDependencies": {
-    "express": "~3.x.x"
+    "express": "~4.x.x"
   }
 }
